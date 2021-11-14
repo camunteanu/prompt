@@ -53,6 +53,16 @@
                   }
               },
               {
+                "type": "python",
+                "style": "powerline",
+                "powerline_symbol": "",
+                "foreground": "#100e23",
+                "background": "#906cff",
+                "properties": {
+                  "prefix": " \uE235 "
+                }
+              },
+              {
                   "type": "root",
                   "style": "powerline",
                   "powerline_symbol": "",
